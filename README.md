@@ -1,4 +1,10 @@
-## Hi there 👋
+# Välkommen till min github!
+
+## Om mig
+Jag heter Linneah och är 25 år gammal. Mitt intresse för datorer och teknik började i ung ålder, men har aldrig varit något jag vågat ta på allvar tidigare. Nu sedan hösten 2026 studerar jag dock webbutveckling på distans via mittuniversitetet. Jag ser fram emot att utforska mitt teknikintresse mer seriöst och hoppas att detta kommer kunna leda mig in på en ny bana karriärmässigt. 
+
+### Tidigare erfarenhet
+Innan jag påbörjade mina studier hade jag begränsad erfarenhet av HTML och CSS. Jag har lyckats bygga några webbplatser tidigare med hjälp av w3schools och "trial and error", men inte riktigt haft grundförståelsen för hur allt hänger ihop i slutändan. 
 
 <!--
 **zvintlinn/zvintlinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
